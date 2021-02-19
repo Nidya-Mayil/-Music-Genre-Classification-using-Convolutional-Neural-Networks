@@ -18,4 +18,4 @@ $**python3**  Music_Genre_Classification.py
 **--> rock**:  35.42%  
 **--> reggae**: 2.08%  
    
-***Note:*** Test audio (test_music.mp3) is a Disco song, "Every 1's A Winner" by 'Hot Chocolate'.
+***Note:*** Test audio (test_music.wav) is a Disco song, "Every 1's A Winner" by 'Hot Chocolate'.
