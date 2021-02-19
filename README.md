@@ -12,6 +12,7 @@ $**python3**  Music_Genre_Classification.py ( Give input audio path in the code 
   
 ### Example
 $**cd**  src
+
 $**python3**  Music_Genre_Classification.py
 
 **--> disco**: 62.50%  
